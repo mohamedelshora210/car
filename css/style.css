@@ -1,0 +1,12 @@
+header{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),url(../images/header.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.navbar{
+    box-shadow: 0 2px white;
+}
+.nav-item{
+    font-size: 1.3rem;
+}
